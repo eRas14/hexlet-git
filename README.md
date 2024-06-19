@@ -1,3 +1,1 @@
-Hello? Hexlet!
-
-Тесть записи изменения
+no code no pain
