@@ -1,2 +1,0 @@
-Hasskell Curry
-ÿ
